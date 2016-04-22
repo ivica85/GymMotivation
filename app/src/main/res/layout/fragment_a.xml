@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ivica.zzzzzzzz.fragment_b"
+    android:clickable="true">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/gumbMuzika"
+        android:layout_centerHorizontal="true"
+        android:background="#0a6a6a6a"
+        android:text="Go to your music library" />
+</RelativeLayout>

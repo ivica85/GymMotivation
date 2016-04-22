@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_home"
+            android:title="Get Started"
+            android:icon="@drawable/run">
+        </item>
+
+
+        <item
+            android:id="@+id/id_kompas"
+            android:title="Compass"
+            android:icon="@drawable/compass">
+        </item>
+
+
+
+        <item
+            android:id="@+id/id_karta"
+            android:title="Maps"
+            android:icon="@drawable/maps">
+        </item>
+    </group>
+
+</menu>
